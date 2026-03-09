@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Jarin Dengler
 
-<!--
-**jarindengler/jarindengler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a healthcare laboratory professional transitioning into data analytics with a focus on real-world data exploration and practical problem solving.
 
-Here are some ideas to get you started:
+My current work centers on SQL-based data analysis using datasets from healthcare, climate science, and economic impact research. I enjoy working with messy real-world data and transforming it into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+• SQL data analysis (PostgreSQL/SQLite)
+• Healthcare data and hospital outcomes
+• Climate and catastrophe-related datasets
+• Data cleaning and transformation workflows
+
+## Tools
+
+SQL (PostgreSQL/SQLite)
+Excel
+Tableau *(in progress)*
+Python *(in progress)*
+DataGrip
+
+## Portfolio Projects
+
+My repositories contain analysis projects exploring questions such as:
+
+• Do stronger hurricanes consistently cause greater economic damage?
+• What factors correlate with hospital readmission rates?
+• How can real-world datasets be cleaned and transformed for analysis?
+
+Each project focuses on clear questions, structured SQL analysis, and documented results.
+
+## Goals
+
+I'm currently expanding my portfolio with additional SQL analysis projects and dashboards as I transition into a data analytics role.
+
+Thanks for visiting my portfolio.
