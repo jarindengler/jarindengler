@@ -13,11 +13,11 @@ My current work centers on SQL-based data analysis using datasets from healthcar
 
 ## Tools
 
-SQL (PostgreSQL/SQLite)
-Excel
-Tableau *(in progress)*
-Python *(in progress)*
-DataGrip
+• SQL (PostgreSQL/SQLite)
+• Excel
+• Tableau *(in progress)*
+• Python *(in progress)*
+• DataGrip
 
 ## Portfolio Projects
 
