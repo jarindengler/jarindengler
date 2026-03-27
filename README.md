@@ -19,8 +19,8 @@ Working in a high-volume, CAP-regulated laboratory environment, I’ve developed
 
 • SQL (PostgreSQL / SQLite)
 • Excel
-• Python (pandas, numpy, matplotlib — in progress)
-• Tableau (in progress)
+• Python (pandas, numpy, matplotlib)
+• Power BI (in progress)
 • DataGrip
 
 ---
