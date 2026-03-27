@@ -1,4 +1,4 @@
-Hi, I'm Jarin Dengler
+## Hi, I'm Jarin Dengler
 
 I'm a healthcare laboratory professional transitioning into data analytics, with a focus on clinical data, patient outcomes, and real-world healthcare workflows.
 
